@@ -1,6 +1,4 @@
-
 import { USERS } from './userLogins';
-
 export class BasicAuthUtils {
 
   authenticate(authorization: string) { 
